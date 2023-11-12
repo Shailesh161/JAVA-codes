@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class sumofdigits
+class sumofdigits  //gives the sum of all digits
 {
     public static void main(String[] args) {
         System.out.println("program for sum of digits;");
